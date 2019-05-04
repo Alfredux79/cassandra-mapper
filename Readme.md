@@ -1,6 +1,6 @@
 # Cassandra Mapper Demo Project
 
-This projects demonstrates a very simple use case of the object mapper included in the cassandra driver.
+This projects demonstrates a very simple use case of the [object mapper](https://docs.datastax.com/en/developer/java-driver/3.4/manual/object_mapper/) included in the cassandra driver.
 
 Requirements:
 
@@ -9,7 +9,7 @@ Requirements:
 - Docker
 - Docker Compose 
 
-##Useful commands to play with the project:
+## Useful commands to play with the project:
 
 - To start the cassandra server and create the schema:
 `docker-compose up`
